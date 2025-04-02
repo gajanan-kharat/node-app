@@ -10,3 +10,4 @@
  - Jenkins
  - IntelliJ
  - GitHub
+ - VS Code
