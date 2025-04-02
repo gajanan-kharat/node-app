@@ -4,4 +4,8 @@
   - Node JS
   - Express
   - Mongo DB
-  - GitHub 
+  - GitHub
+
+## TOOLS:
+ - Jenkins
+ - IntelliJ
